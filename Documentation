@@ -1,0 +1,8 @@
+Funcionality Implemented :
+1. /getShopDetails
+2. /postShopDetails
+3. /getShopList
+
+Also GEO Coding API and other compulsary requiremesnts are also fulfilled.
+
+The part which is not completed is finding shop near the customer.
