@@ -1,3 +1,3 @@
 # Retail-manager
 Rest Service 
-The compressed file contain the acutal project.
+The compressed file contains the actual project.
